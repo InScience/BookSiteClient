@@ -21,3 +21,4 @@ TODO's
 ------
 
 	* Sidebar with recommendations is made dynamically with JavaScript, it should be edited to make it look pretty.
+	* Find way how to get visitor's IP address.
