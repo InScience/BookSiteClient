@@ -17,6 +17,15 @@ How to user
 	
 	* That's it. It should work.
 	
+Urls
+----
+
+	Current Servlet URL:
+		* http://158.129.140.188:8484/RecommendationServlet/RecommendationServlet
+		* GET method sends back recommendations, so we add userId from cookies.
+			Example: http://158.129.140.188:8484/RecommendationServlet/RecommendationServlet?id=c6bff625bdb0393992c9d4db0c6bbe45
+		* POST method sends back md5 strings to write into visitor's cookies to identify.
+	
 TODO's
 ------
 
